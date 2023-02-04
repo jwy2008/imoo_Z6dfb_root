@@ -2,6 +2,7 @@
 ## 该仓库用与讲述如何root小天才z6dfb及以上版本。
 
 - **⚠仅适用于部分有一定基础的人，不建议0基础者使用**
+- **⚠此仓库为ReX iMoo Team的仓库[imoo_Z6dfb_root](https://github.com/ReX-iMoo-Team/imoo_Z6dfb_root/)的克隆与修改，版本可能会稍微落后，在原仓库没有问题的情况下不建议使用。
 
 1. 使用[iMoo Toolkit](https://github.com/ReX-iMoo-Team/iMoo-Toolkit)安装[magisk](https://github.com/topjohnwu/Magisk/releases/tag/v23.0)和[czwg]()到手表上手表上。
    - **把充电特效改成流光**
