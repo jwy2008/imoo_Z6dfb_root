@@ -3,7 +3,7 @@
 
 - **⚠仅适用于部分有一定基础的人，不建议0基础者使用**
 
-1. 将仓库目录[apks](https://github.com/jwy2008/imoo_Z6dfb_root/tree/main/apks)内的安装包全部安装在手表上。
+1. 使用[iMoo Toolkit](https://github.com/ReX-iMoo-Team/iMoo-Toolkit)安装[magisk](https://github.com/topjohnwu/Magisk/releases/tag/v23.0)和[czwg]()到手表上手表上。
    - **把充电特效改成流光**
    - 命令行输入: 
        ```sh
