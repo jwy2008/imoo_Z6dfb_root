@@ -13,7 +13,7 @@
 3. 打开**magisk**点击安装，选择直接选择并修补一个文件。
    - **不要选择保留avb**
 4. 打开找到刚刚导入的`boot.bin`。
-   - **magsik**会开始修补显示**All done**就是成功。
+   - **magisk**会开始修补显示**All done**就是成功。
 5. 接下来到手表下载目录`/sdcard/Download/`，将`boot.img`上传到电脑上
 6. 使用**QFIl**进入**9008**，将`boot.img`刷进**recovery**里面，`misc.bin`刷进**misc**里，确定刷完依次退出刷完之后就**root**成功了。
    - **`misc.bin`在仓库目录[misc](https://github.com/jwy2008/imoo_Z6dfb_root/tree/main/misc)里**
