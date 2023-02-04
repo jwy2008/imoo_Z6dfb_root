@@ -1,7 +1,7 @@
 # imoo_Z6dfb_root
 ## 该仓库用与讲述如何root小天才z6dfb及以上版本。
 
-- **⚠仅限有一定基础的人，不建议0基础者使用**
+- **⚠仅适用于部分有一定基础的人，不建议0基础者使用**
 
 1. 将仓库目录[apks](https://github.com/jwy2008/imoo_Z6dfb_root/tree/main/apks)内的安装包全部安装在手表上。
    - **把充电特效改成流光**
